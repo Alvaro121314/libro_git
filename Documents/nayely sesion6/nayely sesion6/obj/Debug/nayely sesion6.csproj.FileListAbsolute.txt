@@ -1,0 +1,10 @@
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\obj\Debug\nayely sesion6.csproj.AssemblyReference.cache
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\obj\Debug\nayely_sesion6.Form1.resources
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\obj\Debug\nayely_sesion6.Properties.Resources.resources
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\obj\Debug\nayely sesion6.csproj.GenerateResource.cache
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\obj\Debug\nayely sesion6.csproj.CoreCompileInputs.cache
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\bin\Debug\nayely sesion6.exe.config
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\bin\Debug\nayely sesion6.exe
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\bin\Debug\nayely sesion6.pdb
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\obj\Debug\nayely sesion6.exe
+C:\Users\PC-06\Documents\nayely sesion6\nayely sesion6\obj\Debug\nayely sesion6.pdb

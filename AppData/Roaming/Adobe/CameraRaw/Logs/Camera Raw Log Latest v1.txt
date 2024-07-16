@@ -1,0 +1,86 @@
+cr_sdk_initialize: Adobe Photoshop Camera Raw 12.2 (Windows), version 12.2x386, 64-bit, Release
+gDNGMaxSIMD: 3
+Scalable memory pool allocator: yes
+TBB threading: no
+PatchMatch initialized (version 4.0.0.0). Using 8 threads.
+CPU: Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz
+OS: 10.0.22621.3374
+MPProcessorCount (hyperthreading = false): 4
+MPProcessorCount (hyperthreading = true): 8
+MPThreadCount: 8
+std::thread::hardware_concurrency: 8
+AVX support: yes
+AVX2 support: yes
+AVX512 support: no
+System physical RAM: 16 GB
+Initialize GPU system
+Read GPU config
+Safe load GPU
+Native16BitShaderOpsSupported: YES
+SupportsShaderModel_6_2_OrHigher: YES
+Supports FP16 for DX on WML: YES
+    name                                    : Intel(R) UHD Graphics 620
+    VendorId                                : 32902
+    DeviceId                                : 22807
+    SubSysId                                : 136056872
+    Revision                                : 7
+    DedicatedVideoMemory                    : 134217728
+    DedicatedSystemMemory                   : 0
+    SharedSystemMemory                      : 8526147584
+    MemoryBudget                            : 7831404749
+    AdapterLuid.LowPart                     : 215433962
+    AdapterLuid.HighPart                    : 0
+    Flags                                   : 0
+        DoublePrecisionFloatShaderOps           : yes
+        ConservativeRasterizationTier           : 3
+        CrossNodeSharingTier                    : 0
+        ResourceBindingTier                     : 3
+        ResourceHeapTier                        : 2
+        TiledResourcesTier                      : 3
+        NodeIndex                               : 0
+        TileBasedRenderer                       : no
+        UMA                                     : yes
+        CacheCoherentUMA                        : yes
+        feature level                           : 0x00009100
+        feature level                           : 0x00009200
+        feature level                           : 0x00009300
+        feature level                           : 0x0000a000
+        feature level                           : 0x0000a100
+        feature level                           : 0x0000b000
+        feature level                           : 0x0000b100
+        feature level                           : 0x0000c000
+        feature level                           : 0x0000c100
+        MaxSupportedFeatureLevel                : 0x0000c100
+        HighestShaderModel                      : 0x60
+        WaveOps                                 : yes
+        WaveLaneCountMin                        : 16
+        WaveLaneCountMax                        : 16
+        TotalLaneCount                          : 384
+        ExpandedComputeResourceStates           : yes
+        Int64ShaderOps                          : yes
+        RootSignature.HighestVersion            : 0x2
+    Intel-specific info:
+        Architecture                            : Kabylake
+        EU Count                                : 24
+        Package TDP                             : 15
+        Max Fill Rate (pixels/clock)            : 8
+        Max Frequency                           : 1150
+        Min Frequency                           : 300
+Loaded GPU system: DirectX
+GPU primary driver version: 31.0.101.2127
+GPU device count: 1
+GPU device names: Intel(R) UHD Graphics 620
+GPU3 white list: no
+GPU3 black list: no
+GPU3 prev digest: A8436ACC4C6270E54588255E8911FF2B
+GPU3 new digest: A8436ACC4C6270E54588255E8911FF2B
+Need to run gpu self tests : False.
+*** GPU Warning: GPU3 failed (previous) sanity test ***
+GPU Init Status (part 1): I2_GPU2
+GPU3 Hard Status Result (part 1): fail_cached_sanity_test
+GPU3 Soft Status Result (part 1): not_checked
+Intel Compiler: yes
+Intel Compiler Version: 1900.4
+Intel Compiler Build Date: 20190417
+Terminate GPU system
+cr_sdk_terminate

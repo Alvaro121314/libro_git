@@ -1,0 +1,27 @@
+Log file created on Wed May 15 2024 12:27:20 GMT-0500 (Hora est. Pacífico, Sudamérica)
+
+[info:core 12:27:20.294 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:114:22] Launching with config:
+{}
+[info:core 12:27:20.294 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:116:26] provided PS information:
+ version 21.0
+ pathC:\Program Files\Adobe\Adobe Photoshop 2020
+
+[info:core 12:27:20.309 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:237:30] Detected Photoshop version: 21.0.0
+[warning:app 12:27:20.325 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\app.js:217:29] No viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop 2020\Plug-ins\Generator'
+[info:core 12:27:20.325 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: generator-assets (v2.9.13) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate
+[warning:core 12:27:21.050 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[info:core 12:27:21.050 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: generator-assets
+[info:core 12:27:21.066 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: crema (v3.2.12) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate
+[info:core 12:27:22.247 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: crema
+[warning:core 12:27:22.341 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[warning:crema 12:27:22.356 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate\node_modules\shared\LogUtils\index.js:61:21] user settings file could not be created
+[warning:core 12:27:24.013 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:133:30] Photoshop error { id: 15,
+  body: 'Error 1302: No existe ese elemento\rLínea: 8\r->  var desc = app.getCustomOptions(params.key);' }
+[warning:core 12:27:24.013 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:378:26] Error in JSX file with params ./jsx/getCustomOptions.jsx { key: 'crema' } Error 1302: No existe ese elementoLínea: 8->  var desc = app.getCustomOptions(params.key);
+[info:core 12:27:30.277 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\photoshop.js:488:26] 15ms to receive 1.2 kB (83.1 kB/s)
+[info:core 12:28:06.087 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\photoshop.js:488:26] 16ms to receive 0.2 kB (11 kB/s)
+[info:core 12:34:12.600 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\photoshop.js:488:26] 14ms to receive 0.2 kB (12.8 kB/s)
+[warning:core 12:34:13.299 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:133:30] Photoshop error Pipe read error: Error: EPIPE: broken pipe, read
+[info:core 12:34:13.301 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:128:30] Photoshop connection closed
+[info:core 12:34:13.303 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:128:30] Photoshop connection closed
+[error:app 12:34:14.314 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\app.js:125:17] Exiting with code 0: Generator close event

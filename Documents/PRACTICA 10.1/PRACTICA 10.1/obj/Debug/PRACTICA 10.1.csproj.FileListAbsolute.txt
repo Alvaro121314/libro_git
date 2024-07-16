@@ -1,0 +1,10 @@
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\bin\Debug\PRACTICA 10.1.exe.config
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\bin\Debug\PRACTICA 10.1.exe
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\bin\Debug\PRACTICA 10.1.pdb
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\obj\Debug\PRACTICA 10.1.csproj.AssemblyReference.cache
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\obj\Debug\PRACTICA_10._1.Form1.resources
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\obj\Debug\PRACTICA_10._1.Properties.Resources.resources
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\obj\Debug\PRACTICA 10.1.csproj.GenerateResource.cache
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\obj\Debug\PRACTICA 10.1.csproj.CoreCompileInputs.cache
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\obj\Debug\PRACTICA 10.1.exe
+C:\Users\PC-06\Documents\PRACTICA 10.1\PRACTICA 10.1\obj\Debug\PRACTICA 10.1.pdb

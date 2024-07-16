@@ -1,0 +1,42 @@
+07/15/24 11:41:37   --------Starting DIM-------->
+07/15/24 11:41:37   15/07/2024 11:41:37
+07/15/24 11:41:37   procid: 5720
+07/15/24 11:41:37   --------Starting DIM-------->
+07/15/24 11:41:37   15/07/2024 11:41:37
+07/15/24 11:41:37   procid: 3344
+07/15/24 11:41:37   Locking instance
+07/15/24 11:41:37   Job Parameters are:
+07/15/24 11:41:37   1698088516225
+07/15/24 11:41:37   1698088516803
+07/15/24 11:41:37   Downloading your update...
+07/15/24 11:41:37   Using custom UI at:
+07/15/24 11:41:37   c:\users\pc-06\appdata\roaming\corel\messages\540111125_707000\es\messagecache2\workflow\ui\downloaddlg.html
+07/15/24 11:41:37   Submitting Job
+07/15/24 11:41:37   Downloading files:
+07/15/24 11:41:37   Resuming Sub Job
+07/15/24 11:41:37   Could not resume a sub job:
+07/15/24 11:41:37   1698088516225
+07/15/24 11:41:37   Could not download files
+07/15/24 11:41:37   Unlocking instance
+07/15/24 11:41:37   <--------Ending DIM--------
+07/15/24 11:41:37   (null)
+07/15/24 11:42:04   --------Starting DIM-------->
+07/15/24 11:42:04   15/07/2024 11:42:04
+07/15/24 11:42:04   procid: 16072
+07/15/24 11:42:04   Locking instance
+07/15/24 11:42:04   Job Parameters are:
+07/15/24 11:42:04   1620021446574
+07/15/24 11:42:04   Descargando revisión...
+07/15/24 11:42:04   CDGS2021U164.exe
+07/15/24 11:42:04   (null)
+07/15/24 11:42:04   Using custom UI at:
+07/15/24 11:42:04   c:\users\pc-06\appdata\roaming\corel\messages\540111125_707000\es\messagecache2\workflow\ui\downloaddlg.html
+07/15/24 11:42:04   Submitting Job
+07/15/24 11:42:04   Downloading files:
+07/15/24 11:42:04   Resuming Sub Job
+07/15/24 11:42:04   Could not resume a sub job:
+07/15/24 11:42:04   1620021446574
+07/15/24 11:42:04   Could not download files
+07/15/24 11:42:04   Unlocking instance
+07/15/24 11:42:04   <--------Ending DIM--------
+07/15/24 11:42:04   (null)

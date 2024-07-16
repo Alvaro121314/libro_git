@@ -1,0 +1,7 @@
+C:\Users\PC-06\Documents\cris\cris\bin\Debug\cris.exe.config
+C:\Users\PC-06\Documents\cris\cris\bin\Debug\cris.exe
+C:\Users\PC-06\Documents\cris\cris\bin\Debug\cris.pdb
+C:\Users\PC-06\Documents\cris\cris\obj\Debug\cris.csproj.AssemblyReference.cache
+C:\Users\PC-06\Documents\cris\cris\obj\Debug\cris.csproj.CoreCompileInputs.cache
+C:\Users\PC-06\Documents\cris\cris\obj\Debug\cris.exe
+C:\Users\PC-06\Documents\cris\cris\obj\Debug\cris.pdb

@@ -1,0 +1,50 @@
+Log file created on Wed May 22 2024 11:40:43 GMT-0500 (Hora est. Pacífico, Sudamérica)
+
+[info:core 11:40:43.848 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:114:22] Launching with config:
+{}
+[info:core 11:40:43.848 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:116:26] provided PS information:
+ version 21.0
+ pathC:\Program Files\Adobe\Adobe Photoshop 2020
+
+[info:core 11:40:43.878 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:237:30] Detected Photoshop version: 21.0.0
+[warning:app 11:40:43.958 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\app.js:217:29] No viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop 2020\Plug-ins\Generator'
+[info:core 11:40:43.962 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: generator-assets (v2.9.13) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate
+[warning:core 11:40:45.952 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[info:core 11:40:45.952 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: generator-assets
+[info:core 11:40:45.958 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1926:26] Loading plugin: crema (v3.2.12) from: C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate
+[info:core 11:40:49.778 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:1942:26] Plugin loaded: crema
+[warning:core 11:40:50.470 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:915:26] WARNING the imageChanged event is expensive, please consider NOT listening to it
+[warning:crema 11:40:50.501 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\crema.generate\node_modules\shared\LogUtils\index.js:61:21] user settings file could not be created
+[info:core 11:40:50.537 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\photoshop.js:488:26] 21ms to receive 0.1 kB (3.5 kB/s)
+[warning:core 11:41:11.757 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:133:30] Photoshop error { id: 15,
+  body: 'Error 1302: No existe ese elemento\rLínea: 8\r->  var desc = app.getCustomOptions(params.key);' }
+[warning:core 11:41:11.763 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Generator-builtin\lib\generator.js:378:26] Error in JSX file with params ./jsx/getCustomOptions.jsx { key: 'crema' } Error 1302: No existe ese elementoLínea: 8->  var desc = app.getCustomOptions(params.key);
+[warning:generator-assets 11:41:43.475 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:138:34] Unhandled property in raw constructor: timeContent true
+[warning:generator-assets 11:41:43.478 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[warning:generator-assets 11:42:02.839 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:138:34] Unhandled property in raw constructor: timeContent true
+[warning:generator-assets 11:42:02.839 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[warning:generator-assets 11:42:40.533 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:138:34] Unhandled property in raw constructor: timeContent true
+[warning:generator-assets 11:42:40.533 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[warning:generator-assets 11:42:52.199 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: -0.471732,
+  xy: 0,
+  yx: 0,
+  yy: 0.471732,
+  tx: 627.249,
+  ty: 210.757 }
+[warning:generator-assets 11:42:52.199 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[warning:generator-assets 11:42:55.179 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: -0.471732,
+  xy: 0,
+  yx: 0,
+  yy: 0.471732,
+  tx: 627.249,
+  ty: 210.757 }
+[warning:generator-assets 11:42:55.192 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[warning:generator-assets 11:43:14.237 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.691772, xy: 0, yx: 0, yy: 0.691772, tx: 7.83589e-14, ty: 0 }
+[warning:generator-assets 11:43:14.239 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[warning:generator-assets 11:43:22.651 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: -0.495111,
+  xy: 0,
+  yx: 0,
+  yy: 0.495111,
+  tx: 732.13,
+  ty: 202.311 }
+[warning:generator-assets 11:43:22.651 C:\Program Files\Adobe\Adobe Photoshop 2020\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true

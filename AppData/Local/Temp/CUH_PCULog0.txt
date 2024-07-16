@@ -1,0 +1,266 @@
+07/15/24 11:41:26   
+
+***************** New Log **************************
+
+Start time: 07/15/24 11:41:26
+
+Module: c:\Program Files (x86)\Corel\CUH\v2\CUH.exe
+
+07/15/24 11:41:26   MS::Init started
+07/15/24 11:41:26   CIMSGD started
+07/15/24 11:41:26   CIMSGD elapsed time: 0.005 seconds
+07/15/24 11:41:26   MS::Init elapsed time: 0.011 seconds
+07/15/24 11:41:26   CUH: Init msgsys!
+07/15/24 11:41:26   CUH launched with -resume!
+07/15/24 11:41:26   WPCB:init1 started
+07/15/24 11:41:26   PCU version : 13.0.0.577
+07/15/24 11:41:26   WPCB:genin started
+07/15/24 11:41:26   WPCB:genin elapsed time: 0.105 seconds
+07/15/24 11:41:26   WPCB:init1 elapsed time: 0.231 seconds
+07/15/24 11:41:26   MU::USI started
+07/15/24 11:41:26   MU::USI:BSI started
+07/15/24 11:41:26   MU::USI:BSI:CICT started
+07/15/24 11:41:26   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/15/24 11:41:26   MP::GAP started
+07/15/24 11:41:26   MP::GAP elapsed time: 0.015 seconds
+07/15/24 11:41:26   MU::USI:BSI elapsed time: 0.017 seconds
+07/15/24 11:41:26   MU::USI elapsed time: 0.022 seconds
+07/15/24 11:41:26   MS::CP:MD:CPC elapsed time: 0.418 seconds
+07/15/24 11:41:26   MS::CP elapsed time: 0.426 seconds
+07/15/24 11:41:26   CSL started
+07/15/24 11:41:27   WPCB:init1 started
+07/15/24 11:41:27   PCU version : 13.0.0.577
+07/15/24 11:41:27   WPCB:genin started
+07/15/24 11:41:27   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540111147_410003\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 11:41:27   WPCB:genin elapsed time: 0.023 seconds
+07/15/24 11:41:27   WPCB:init1 elapsed time: 0.032 seconds
+07/15/24 11:41:27   CSL elapsed time: 0.047 seconds
+07/15/24 11:41:27   CSL started
+07/15/24 11:41:27   WPCB:init1 started
+07/15/24 11:41:27   PCU version : 13.0.0.577
+07/15/24 11:41:27   WPCB:genin started
+07/15/24 11:41:27   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540227504_999923\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 11:41:27   WPCB:genin elapsed time: 0.017 seconds
+07/15/24 11:41:27   WPCB:init1 elapsed time: 0.018 seconds
+07/15/24 11:41:27   CSL elapsed time: 0.023 seconds
+07/15/24 11:41:27   VA started
+07/15/24 11:41:27   VA elapsed time: 0.001 seconds
+07/15/24 11:41:27   VA started
+07/15/24 11:41:27   VA elapsed time: 0.001 seconds
+07/15/24 11:41:27   VA started
+07/15/24 11:41:27   VA elapsed time: 0.002 seconds
+07/15/24 11:41:27   MD started
+07/15/24 11:41:27   MD:ST started
+07/15/24 11:41:27   MP::GAP started
+07/15/24 11:41:27   MP::GAP elapsed time: 0.000 seconds
+07/15/24 11:41:27   MD:ST elapsed time: 0.002 seconds
+07/15/24 11:41:28   MD elapsed time: 1.612 seconds
+07/15/24 11:41:29   MD:RM started
+07/15/24 11:41:29   MU:RM started
+07/15/24 11:41:29   MU::USI:BSI started
+07/15/24 11:41:29   MU::USI:BSI:CICT started
+07/15/24 11:41:29   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/15/24 11:41:29   MP::GAP started
+07/15/24 11:41:29   MP::GAP elapsed time: 0.000 seconds
+07/15/24 11:41:29   MU::USI:BSI elapsed time: 0.002 seconds
+07/15/24 11:41:35   ME:EM started
+07/15/24 11:41:37   DoAUpdt started
+07/15/24 11:41:37   DIMPrmHndlr::init started
+07/15/24 11:41:37   In ProcessDIMElement( <dim_params title="Downloading your update..." 
+		download_url="http://www.corel.com/akdlm/6763/downloads/IPM/IPM_Common.msp"> 
+		
+		<downloads><download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x64.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x86.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.cfg" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.exe" size="0" />
+				</downloads><runcommands silent="1" need_admin_rights="0" 
+					       run_option="app_launch" initial_trigger="app_launch" resumption_trigger="app_launch"><runcommand 
+						name="dimchain.exe" param=""
+						/></runcommands>
+	</dim_params>, 1605, C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Messages\1698088516225\detail.htm, 1 )
+07/15/24 11:41:37   In ProcessDIMElement( <?xml version="1.0" encoding="utf-8"?><dim_params title="Downloading your update..." 
+		download_url="http://www.corel.com/akdlm/6763/downloads/IPM/IPM_Common.msp"> 
+		
+		<downloads><download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x64.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x86.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.cfg" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.exe" size="0" />
+				</downloads><runcommands silent="1" need_admin_rights="0" 
+					       run_option="app_launch" initial_trigger="app_launch" resumption_trigger="app_launch"><runcommand 
+						name="dimchain.exe" param=""
+						/></runcommands>
+	</dim_params>, 1643, C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Messages\1698088516225\detail.htm, 1 )
+07/15/24 11:41:37   DIMPrmHndlr::init elapsed time: 0.032 seconds
+07/15/24 11:41:37   DoAUpdt: msgid=1698088516225
+07/15/24 11:41:37   WPCB::PDE started
+07/15/24 11:41:37   GenerateTargetXML save successful
+07/15/24 11:41:37   Before LaunchDIMEXE - DIM Folder: c:\Program Files (x86)\Corel\CUH\v2\ params: -file="C:\ProgramData\Corel\Downloads\1698088516225\dim_params.xml" -launch=2  -uibase="C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Workflow"
+07/15/24 11:41:37   WPCB::PDE elapsed time: 0.028 seconds
+07/15/24 11:41:37   DIMPrmHndlr::init started
+07/15/24 11:41:37   In ProcessDIMElement( <dim_params title="Downloading your update..." 
+		download_url="http://www.corel.com/akdlm/6763/downloads/IPM/IPM_Common.msp"> 
+		
+		<downloads><download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x64.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x86.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.cfg" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.exe" size="0" />
+				</downloads><runcommands silent="1" need_admin_rights="0" 
+					       run_option="app_launch" initial_trigger="app_launch" resumption_trigger="app_launch"><runcommand 
+						name="dimchain.exe" param=""
+						/></runcommands>
+	</dim_params>, 1605, C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Messages\1698088516803\detail.htm, 1 )
+07/15/24 11:41:37   In ProcessDIMElement( <?xml version="1.0" encoding="utf-8"?><dim_params title="Downloading your update..." 
+		download_url="http://www.corel.com/akdlm/6763/downloads/IPM/IPM_Common.msp"> 
+		
+		<downloads><download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x64-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-22.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up19.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM-Common-x86-up20.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x64.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common-x86.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/IPM_Common.msp" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.cfg" size="0" />
+				<download url="https://www.corel.com/akdlm/6763/downloads/CUH/update20/PC/dimchain.exe" size="0" />
+				</downloads><runcommands silent="1" need_admin_rights="0" 
+					       run_option="app_launch" initial_trigger="app_launch" resumption_trigger="app_launch"><runcommand 
+						name="dimchain.exe" param=""
+						/></runcommands>
+	</dim_params>, 1643, C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Messages\1698088516803\detail.htm, 1 )
+07/15/24 11:41:37   DIMPrmHndlr::init elapsed time: 0.017 seconds
+07/15/24 11:41:37   DoAUpdt: msgid=1698088516803
+07/15/24 11:41:37   WPCB::PDE started
+07/15/24 11:41:37   GenerateTargetXML save successful
+07/15/24 11:41:37   Before LaunchDIMEXE - DIM Folder: c:\Program Files (x86)\Corel\CUH\v2\ params: -file="C:\ProgramData\Corel\Downloads\1698088516803\dim_params.xml" -launch=2  -uibase="C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Workflow"
+07/15/24 11:41:37   WPCB::PDE elapsed time: 0.038 seconds
+07/15/24 11:41:37   DoAUpdt elapsed time: 0.123 seconds
+07/15/24 11:42:03   DoAUpdt started
+07/15/24 11:42:03   DIMPrmHndlr::init started
+07/15/24 11:42:03   In ProcessDIMElement( <dim_params title="Descargando revisión..." 
+		download_url="http://www.corel.com/corel/pages/index.jsp?pgid=800161&ppid=8100054"> 
+		
+		<downloads download_sign_in_required="false"><download url="https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2021/JRLG/CDGS2021U164.exe" size="0" />
+				</downloads><runcommands silent="1" need_admin_rights="0" 
+					       run_option="logon" initial_trigger="app_exit" resumption_trigger="app_exit"><runcommand 
+						name="CDGS2021U164.exe" param="IPM=1" 
+						/><runcommand 
+						name="CDGS2021U164.exe" param="/s IPM=1" 
+						/></runcommands>
+	</dim_params>, 632, C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Messages\1620021446574\detail.htm, 1 )
+07/15/24 11:42:03   In ProcessDIMElement( <?xml version="1.0" encoding="utf-8"?><dim_params title="Descargando revisión..." 
+		download_url="http://www.corel.com/corel/pages/index.jsp?pgid=800161&amp;ppid=8100054"> 
+		
+		<downloads download_sign_in_required="false"><download url="https://www.corel.com/akdlm/6763/downloads/free/patches/CorelDraw/GraphicsSuite/2021/JRLG/CDGS2021U164.exe" size="0" />
+				</downloads><runcommands silent="1" need_admin_rights="0" 
+					       run_option="logon" initial_trigger="app_exit" resumption_trigger="app_exit"><runcommand 
+						name="CDGS2021U164.exe" param="IPM=1" 
+						/><runcommand 
+						name="CDGS2021U164.exe" param="/s IPM=1" 
+						/></runcommands>
+	</dim_params>, 674, C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Messages\1620021446574\detail.htm, 1 )
+07/15/24 11:42:03   DIMPrmHndlr::init elapsed time: 0.012 seconds
+07/15/24 11:42:03   DoAUpdt: msgid=1620021446574
+07/15/24 11:42:03   WPCB::PDE started
+07/15/24 11:42:03   GenerateTargetXML save successful
+07/15/24 11:42:03   Before LaunchDIMEXE - DIM Folder: c:\Program Files (x86)\Corel\CUH\v2\ params: -file="C:\ProgramData\Corel\Downloads\1620021446574\dim_params.xml" -launch=2  -uibase="C:\Users\PC-06\AppData\Roaming\Corel\Messages\540111125_707000\ES\MessageCache2\Workflow"
+07/15/24 11:42:03   WPCB::PDE elapsed time: 0.016 seconds
+07/15/24 11:42:03   DoAUpdt elapsed time: 0.047 seconds
+07/15/24 11:42:22   DoAUpdt started
+07/15/24 11:42:22   DoAUpdt elapsed time: 0.015 seconds
+07/15/24 11:42:39   ME:EM elapsed time: 64.443 seconds
+07/15/24 11:42:39   Message Retrieval Success
+07/15/24 11:42:39   Message cache switched
+07/15/24 11:42:39   MU:RM return value 0
+07/15/24 11:42:39   MU:RM elapsed time: 69.840 seconds
+07/15/24 11:42:39   MD:RM elapsed time: 69.843 seconds
+07/15/24 11:42:39   CTTH:CT started
+07/15/24 11:42:39   CTTH:CT schedule create success
+07/15/24 11:42:39   CTTH:CT elapsed time: 0.025 seconds
+07/15/24 11:42:39   CTTH:CT Success: 1
+07/15/24 11:42:39   CUH: Uninit msgsys!
+07/15/24 11:42:39   MS::RL started
+07/15/24 11:42:39   MD::RL started
+07/15/24 11:42:39   MU:CTT started
+07/15/24 11:42:39   MU:CTT elapsed time: 0.000 seconds
+07/15/24 11:42:39   MD::RL elapsed time: 0.000 seconds
+07/15/24 11:42:39   MS::RL elapsed time: 0.016 seconds
+07/15/24 11:56:26   MS::CP started
+07/15/24 11:56:26   MS::CP:MD:CPC started
+07/15/24 11:56:26   MS::CP:MD:CPC:MU:VIC started
+07/15/24 11:56:26   MS::CP:MD:CPC:MU:VIC elapsed time: 0.015 seconds
+07/15/24 11:56:26   WPCB:init1 started
+07/15/24 11:56:26   PCU version : 13.0.0.577
+07/15/24 11:56:26   In IsInternetConnected - strURL=http://mc.corel.com/servlet/MessageCenterServer, Return=true, Reason=0, Error:0, WSAError=0
+07/15/24 11:56:26   MU::CKIT elapsed time: 0.032 seconds
+07/15/24 11:56:26   WPCB:genin started
+07/15/24 11:56:26   WPCB:genin elapsed time: 0.031 seconds
+07/15/24 11:56:26   WPCB:init1 elapsed time: 0.079 seconds
+07/15/24 11:56:26   MU::USI started
+07/15/24 11:56:26   MU::USI:BSI started
+07/15/24 11:56:26   MU::USI:BSI:CICT started
+07/15/24 11:56:26   MU::USI:BSI:CICT elapsed time: 0.000 seconds
+07/15/24 11:56:26   MP::GAP started
+07/15/24 11:56:26   MP::GAP elapsed time: 0.000 seconds
+07/15/24 11:56:26   MU::USI:BSI elapsed time: 0.000 seconds
+07/15/24 11:56:26   MU::USI elapsed time: 0.000 seconds
+07/15/24 11:56:26   MS::CP:MD:CPC elapsed time: 0.094 seconds
+07/15/24 11:56:26   MS::CP elapsed time: 0.094 seconds
+07/15/24 11:56:26   CSL started
+07/15/24 11:56:26   WPCB:init1 started
+07/15/24 11:56:26   PCU version : 13.0.0.577
+07/15/24 11:56:26   WPCB:genin started
+07/15/24 11:56:26   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540111147_410003\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 11:56:26   WPCB:genin elapsed time: 0.016 seconds
+07/15/24 11:56:26   WPCB:init1 elapsed time: 0.032 seconds
+07/15/24 11:56:26   CSL elapsed time: 0.032 seconds
+07/15/24 11:56:26   CSL started
+07/15/24 11:56:26   WPCB:init1 started
+07/15/24 11:56:26   PCU version : 13.0.0.577
+07/15/24 11:56:26   WPCB:genin started
+07/15/24 11:56:26   Error, XML file could not be found: C:\ProgramData\Corel\Messages\540227504_999923\en\MessageCache1\Workflow\WorkflowMessages.xml
+07/15/24 11:56:26   WPCB:genin elapsed time: 0.016 seconds
+07/15/24 11:56:26   WPCB:init1 elapsed time: 0.016 seconds
+07/15/24 11:56:26   CSL elapsed time: 0.016 seconds
+07/15/24 11:56:26   VA started
+07/15/24 11:56:26   VA elapsed time: 0.000 seconds
+07/15/24 11:56:26   VA started
+07/15/24 11:56:26   VA elapsed time: 0.000 seconds
+07/15/24 11:56:26   VA started
+07/15/24 11:56:26   VA elapsed time: 0.000 seconds
+07/15/24 11:56:26   MD started
+07/15/24 11:56:26   MD:ST started
+07/15/24 11:56:26   MP::GAP started
+07/15/24 11:56:26   MP::GAP elapsed time: 0.000 seconds
+07/15/24 11:56:26   MD:ST elapsed time: 0.004 seconds
+07/15/24 11:56:28   MD elapsed time: 1.417 seconds
+07/15/24 11:56:34   CUH: No messages to display! Exiting.
+07/15/24 11:56:34   CTTH:UST No need to update schedule
+07/15/24 11:56:34   CUH: Uninit msgsys!
+07/15/24 11:56:34   MS::RL started
+07/15/24 11:56:34   MD::RL started
+07/15/24 11:56:34   MU:CTT started
+07/15/24 11:56:34   MU:CTT elapsed time: 0.000 seconds
+07/15/24 11:56:34   MD::RL elapsed time: 0.000 seconds
+07/15/24 11:56:34   MS::RL elapsed time: 0.000 seconds

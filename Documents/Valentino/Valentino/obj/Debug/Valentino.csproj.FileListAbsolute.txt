@@ -1,0 +1,10 @@
+C:\Users\PC-06\Documents\Valentino\Valentino\bin\Debug\Valentino.exe.config
+C:\Users\PC-06\Documents\Valentino\Valentino\bin\Debug\Valentino.exe
+C:\Users\PC-06\Documents\Valentino\Valentino\bin\Debug\Valentino.pdb
+C:\Users\PC-06\Documents\Valentino\Valentino\obj\Debug\Valentino.csproj.AssemblyReference.cache
+C:\Users\PC-06\Documents\Valentino\Valentino\obj\Debug\Valentino.Form1.resources
+C:\Users\PC-06\Documents\Valentino\Valentino\obj\Debug\Valentino.Properties.Resources.resources
+C:\Users\PC-06\Documents\Valentino\Valentino\obj\Debug\Valentino.csproj.GenerateResource.cache
+C:\Users\PC-06\Documents\Valentino\Valentino\obj\Debug\Valentino.csproj.CoreCompileInputs.cache
+C:\Users\PC-06\Documents\Valentino\Valentino\obj\Debug\Valentino.exe
+C:\Users\PC-06\Documents\Valentino\Valentino\obj\Debug\Valentino.pdb

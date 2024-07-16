@@ -1,0 +1,7 @@
+C:\Users\PC-06\Documents\nayely cardenas 1.1\nayely cardenas 1.1\bin\Debug\nayely cardenas 1.1.exe.config
+C:\Users\PC-06\Documents\nayely cardenas 1.1\nayely cardenas 1.1\bin\Debug\nayely cardenas 1.1.exe
+C:\Users\PC-06\Documents\nayely cardenas 1.1\nayely cardenas 1.1\bin\Debug\nayely cardenas 1.1.pdb
+C:\Users\PC-06\Documents\nayely cardenas 1.1\nayely cardenas 1.1\obj\Debug\nayely cardenas 1.1.csproj.AssemblyReference.cache
+C:\Users\PC-06\Documents\nayely cardenas 1.1\nayely cardenas 1.1\obj\Debug\nayely cardenas 1.1.csproj.CoreCompileInputs.cache
+C:\Users\PC-06\Documents\nayely cardenas 1.1\nayely cardenas 1.1\obj\Debug\nayely cardenas 1.1.exe
+C:\Users\PC-06\Documents\nayely cardenas 1.1\nayely cardenas 1.1\obj\Debug\nayely cardenas 1.1.pdb

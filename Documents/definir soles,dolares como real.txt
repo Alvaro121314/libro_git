@@ -1,0 +1,7 @@
+definir soles,dolares como real
+Escribir "soles a convertir a dolares";
+leer soles
+Escribir "dólares = 3.10"
+Leer 3.10
+dólares = soles * dólares
+escribir "soles convertidos", dolares

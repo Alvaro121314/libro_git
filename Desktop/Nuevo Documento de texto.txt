@@ -1,0 +1,50 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp2
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void BTN_CALCULAR_Click(object sender, EventArgs e)
+        {
+            int sueldo;
+            double dsto_afp = 0;
+            double dsto_adel = 0;
+            double dsto_mov = 0;
+            sueldo = int.Parse(TXT_ST.Text);
+
+            if (CHK_AFP.Checked)
+            {
+                dsto_afp = sueldo * 0.13;
+
+            }
+            if (CHK_ADELANTO.Checked)
+            {
+                dsto_adel = sueldo * 0.30;
+            }
+            if (CHK_MOVILIDAD.Checked)
+            {
+                dsto_mov = sueldo * 0.10;
+            }
+            double descuento;
+            descuento = dsto_afp + dsto_adel + dsto_mov;
+            double total_pagar;
+            total_pagar = sueldo - descuento;
+
+            TXT_TD.Text = descuento + "";
+            TXT_TG.Text = total_pagar + "";
+        }
+    }
+}

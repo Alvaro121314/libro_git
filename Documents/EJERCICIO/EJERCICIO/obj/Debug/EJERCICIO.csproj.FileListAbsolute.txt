@@ -1,0 +1,10 @@
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\bin\Debug\EJERCICIO.exe.config
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\bin\Debug\EJERCICIO.exe
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\bin\Debug\EJERCICIO.pdb
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\obj\Debug\EJERCICIO.csproj.AssemblyReference.cache
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\obj\Debug\EJERCICIO.Form1.resources
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\obj\Debug\EJERCICIO.Properties.Resources.resources
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\obj\Debug\EJERCICIO.csproj.GenerateResource.cache
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\obj\Debug\EJERCICIO.csproj.CoreCompileInputs.cache
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\obj\Debug\EJERCICIO.exe
+C:\Users\PC-06\Documents\EJERCICIO\EJERCICIO\obj\Debug\EJERCICIO.pdb

@@ -1,0 +1,9 @@
+[7/12/2024, 15:32:20] === Logging started: 2024/07/12 15:32:20 ===
+[7/12/2024, 15:32:20] Executable: C:\Users\PC-06\AppData\Local\Temp\c72e6912922c4e0fb2404987d294966b\vs_setup_bootstrapper.exe v17.10.35027.167
+[7/12/2024, 15:32:20] --- logging level: standard ---
+[7/12/2024, 15:32:20] Directory 'C:\Users\PC-06\AppData\Local\Temp\2e6d496623484273b517bb99e881be43' has been selected for file extraction
+[7/12/2024, 15:32:20] Extracting files to: C:\Users\PC-06\AppData\Local\Temp\2e6d496623484273b517bb99e881be43
+[7/12/2024, 15:32:20] Extraction took 407 milliseconds
+[7/12/2024, 15:32:20] The entire Box execution exiting with result code: 0x0
+[7/12/2024, 15:32:20] Launched extracted application exiting with result code: 0x0
+[7/12/2024, 15:32:20] === Logging stopped: 2024/07/12 15:32:20 ===
